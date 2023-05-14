@@ -1,0 +1,77 @@
+body {
+    width: 640px;
+    margin: 0%;
+    margin-right: 0%;
+    margin-left: 30%;
+    font-family: 'Mulish', sans-serif;
+    background-color: black;;
+}
+
+#cabecera {
+    padding-bottom: 10%;
+    padding-top: 10%;
+    text-align: center;
+}
+
+main {
+    color: #E7ECEF;
+    background-color: black;
+}
+
+.eset-protect {
+    width: 50%;
+}
+
+h1{
+    font-family: 'Mulish', sans-serif;
+    font-weight: 900;
+    text-align: center;
+}
+
+.texto {
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: larger;
+    font-weight: 600;
+}
+
+.banner {
+    padding-bottom: 10%;
+}
+
+.lista {
+    font-size: large;
+    font-weight: 200;
+}
+
+#boton {
+    width: auto;
+    align-items: center;
+    text-align: center;
+}
+
+.btn-light {
+    --bs-btn-hover-bg: #0094a1;
+    --bs-btn-bg: black;
+    --bs-btn-border-color: #0094a1;
+    --bs-btn-color: #0094a1;;
+    --bs-btn-hover-color: #E7ECEF;
+    --bs-btn-hover-border-color: #0094a1;
+    border-radius: 0px;
+}
+
+#footer {
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+
+.eset {
+    width: 30%;
+}
+
+.redes:hover {
+    opacity: 50%;
+    transition: all 1s;
+}
